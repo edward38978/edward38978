@@ -1,10 +1,8 @@
 # 🤖 Edgar Pimentel – Machine Learning Engineer  
 
-![Profile Banner](https://source.unsplash.com/1600x400/?ai,machinelearning)  
-
 ## 👋 Welcome to My GitHub!  
 
-Hey, I’m **Edgar Pimentel**, and I’ve been deeply passionate about **Artificial Intelligence and Machine Learning** for years.  
+Hey, I’m **Edgar Pimentel**, and I’ve been deeply passionate about **Artificial Intelligence and Machine Learning** for 8 years.  
 
 My journey started with a simple yet powerful question:  
 **Can machines think, learn, and make decisions like humans?**  
@@ -43,8 +41,8 @@ That curiosity led me to dive into **AI**, and since then, I’ve been building 
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=edward38978&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edward38978&layout=compact&theme=tokyonight" height="180px"/>
 </p>  
 
 ---
@@ -66,10 +64,9 @@ That curiosity led me to dive into **AI**, and since then, I’ve been building 
 
 ## 📫 Connect with Me  
 
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-brightgreen?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~yourprofile)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourname)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat&logo=googlechrome)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your.email@example.com)  
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-brightgreen?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~013dbe7566e0dcba52)  
+[![Rising Talent](https://img.shields.io/badge/Upwork-Rising%20Talent-blue?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~013dbe7566e0dcba52)  
+[![Job Success](https://img.shields.io/badge/Upwork-100%25%20Job%20Success-success?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~013dbe7566e0dcba52)  
 
 ---
 
