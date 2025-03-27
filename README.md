@@ -49,9 +49,8 @@ That curiosity led me to dive into **AI**, and since then, I’ve been building 
 
 ## 🚀 Notable Projects  
 
-✅ **[AI Chatbot for E-Commerce](https://github.com/yourusername/project1)** – Built a chatbot using GPT & OpenAI APIs to improve customer experience.  
-✅ **[Traffic Sign Recognition (CNN)](https://github.com/yourusername/project2)** – Developed a deep learning model for autonomous vehicle sign detection.  
-✅ **[Stock Market Prediction](https://github.com/yourusername/project3)** – Implemented an LSTM model to forecast stock prices using historical data.  
+✅ **[AI Chatbot for E-Commerce](https://github.com/edward38978/ecommerce-ai-chatbot)** – Built a chatbot using GPT & OpenAI APIs to improve customer experience.  
+✅ **[Stock Market Prediction](https://github.com/edward38978/Applications-of-AI-for-Predictive-Maintenance)** – Implemented an LSTM model to forecast stock prices using historical data.  
 
 ---
 
